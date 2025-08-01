@@ -12,4 +12,4 @@ Clean, responsive layout
 
 Use of images for banners, course thumbnails, and promotional content
 
-🔗 Live Demo: https://github.com/Viznu-28/Udemy-clone.git
+🔗 Live Demo: 
